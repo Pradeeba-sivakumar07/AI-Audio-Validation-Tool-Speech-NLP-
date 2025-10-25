@@ -1,7 +1,6 @@
 # Audio Weaver AI Tools
 A Python desktop application providing AI-powered tools for audio and document processing. Features include:
 
-- **[GitHub Profile Button](https://github.com/your-username):** Open your GitHub profile directly from the app.
 - **Audio-to-Text:** Record audio from your microphone and transcribe it into text.
 - **PDF-to-Text:** Upload a PDF file and extract its text content.
 - **Text-to-Speech:** Convert any text (from audio or PDF) into spoken audio.
